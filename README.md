@@ -53,14 +53,6 @@
 
 ---
 
-## Style de travail & Philosophie
-
-* **Modularité :** J'écris du code fait pour être maintenu et réutilisé.
-* **Automatisation :** Si je dois le faire trois fois, j'écris un script.
-* **Pipeline First :** La donnée n'a de valeur que si elle circule proprement du point A au point B.
-
----
-
 <div align="center">
   
 *N'hésitez pas à explorer mes dépôts ou à me contacter !*
