@@ -44,7 +44,7 @@
 
 ---
 
-## Projets Sélectionnés
+## Mes Projets
 
 | Projet | Description & Stack | Liens |
 | :--- | :--- | :---: |
